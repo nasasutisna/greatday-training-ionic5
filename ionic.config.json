@@ -1,0 +1,7 @@
+{
+  "name": "greatday-tranning-5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
